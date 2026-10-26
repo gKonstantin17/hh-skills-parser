@@ -14,7 +14,7 @@ Python-скрипт для парсинга вакансий hh.ru, сбор к�
 ```bash
 # Поставить звезду
 # Скачать репозиторий
-https://github.com/gKonstantin17/hh-skills-parser
+git clone https://github.com/gKonstantin17/hh-skills-parser
 
 cd hh-skills-parser
 
